@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciclos", "Ciclos\Ciclos.csproj", "{28162553-D5B2-43B8-9740-C8F0256A5B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28162553-D5B2-43B8-9740-C8F0256A5B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28162553-D5B2-43B8-9740-C8F0256A5B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28162553-D5B2-43B8-9740-C8F0256A5B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28162553-D5B2-43B8-9740-C8F0256A5B79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
