@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodosDeInstancia", "MetodosDeInstancia\MetodosDeInstancia.csproj", "{5231A1F7-5FF7-4BB6-9E87-B139CC9A6583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5231A1F7-5FF7-4BB6-9E87-B139CC9A6583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5231A1F7-5FF7-4BB6-9E87-B139CC9A6583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5231A1F7-5FF7-4BB6-9E87-B139CC9A6583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5231A1F7-5FF7-4BB6-9E87-B139CC9A6583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
